@@ -1,3 +1,8 @@
+This is a list of references mainly for the images used within the project.
+--
+--
+--
+
 SliderLawnMower - http://haintheme.com/demo/html/garden/images/uploads/slider1-3.png
 SliderFarmHouse - http://haintheme.com/demo/html/garden/images/uploads/slider1-1.png
 SliderGardenCheck - http://haintheme.com/demo/html/garden/images/uploads/slider1-3-1.png
@@ -37,3 +42,6 @@ basic4.jpg - http://www.argos.co.uk/product/4253176
 basic5.jpg https://www.amazon.co.uk/dp/B06XQHST3Y?psc=1
 basic6- https://www.google.co.uk/shopping/product/14714614524054096421?q=garden+products&biw=1366&bih=589&bav=on.2,or.r_cp.&tch=1&ech=1&psi=264kWby7KOHQgAbP-6uIDA.1495576283129.3&sa=X&ved=0ahUKEwiMv5_q_4bUAhUGKMAKHUO-AHAQ8wIIqQQwEw#sgro=om
 basic7 - http://www.homebase.co.uk/en/homebaseuk/iowa-tea-for-2---graphite-413305
+--
+--
+I do not take any credit for the images.
