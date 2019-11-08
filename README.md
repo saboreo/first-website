@@ -1,6 +1,6 @@
 # my-first-website
 
-![screenshot.png](screenshot.png)
+![screenshot.png](ScreenshootWebsiteCover.png)
 
 This is a list of references mainly for the images used within the project.
 --
